@@ -1,5 +1,5 @@
 # express-app
-scaffolding for an express app
+Scaffolding for an express app
 
 
-run `npm start` to start app.
+Run `npm start` to start app.
